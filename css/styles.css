@@ -243,6 +243,7 @@ button {
   background-color: var(--accent-color);
   color: var(--white-text-color);
 }
+
 .backdrop {
   position: fixed;
   background-color: rgba(0, 0, 0, 0.2);
